@@ -1,2 +1,2 @@
-# C--
+# C-=
 the C-= esolang
